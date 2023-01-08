@@ -17,6 +17,7 @@ We also need topic suggestions etc. But one thing at a time!
 - Dunsin [https://twitter.com/DunsinWebDev](https://twitter.com/DunsinWebDev) (status: yes)
 - Yuri [https://twitter.com/yuricodesbot](https://twitter.com/yuricodesbot) (status: yes)
 - Avie [https://twitter.com/AvieDev](https://twitter.com/AvieDev) (status: yes)
+- Muhammad Anas [https://twitter.com/MuhammadAnas707](https://twitter.com/MuhammadAnas707) (status: let's try...)
 - Jonaed [https://twitter.com/NoDegreeDotCom](https://twitter.com/NoDegreeDotCom) (status: yes)
 - Rob [https://twitter.com/Axolodev](https://twitter.com/Axolodev) (status: yes)
 - Jax [https://twitter.com/44JAX44](https://twitter.com/44JAX44) (status: yes)
@@ -32,7 +33,7 @@ We also need topic suggestions etc. But one thing at a time!
 - Emy [https://twitter.com/njong_emy](https://twitter.com/njong_emy) (status: yes)
 - Arya [https://twitter.com/arya_akhare](https://twitter.com/arya_akhare) (status: yes)
 - dENI [https://twitter.com/DeniTechh](https://twitter.com/DeniTechh) (status: yes)
-* Muhammad Anas [https://twitter.com/MuhammadAnas707](https://twitter.com/MuhammadAnas707) (status: god save me yes!)
+
 
 ## People to approach, speakers and hosts
 - Francesco
