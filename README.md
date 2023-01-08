@@ -25,6 +25,7 @@ We also need topic suggestions etc. But one thing at a time!
 - Tobiloba [https://twitter.com/toby_solutions](https://twitter.com/toby_solutions) (status: yes (I think))
 - YK [https://twitter.com/ykdojo](https://twitter.com/ykdojo) (status: awaiting response)
 - Jenn Junod [https://twitter.com/JennJunod](https://twitter.com/JennJunod) (status: yes)
+- AJ [https://twitter.com/aj__chan](https://twitter.com/aj__chan)
 
 ## People to approach
 - Francesco
