@@ -11,6 +11,8 @@ All of the schedule will be coordinated on a Google sheets.
 
 A very basic Discord server will be created that allows discussion without interrupting everybody, just a couple of channels and some threads.
 
+**Tone / space type:** As some speakers have very clean reputations, and others are more chaotic, speakers should be arranged in a way where similar styles of space are bunched together so the audiences at each time are getting the type of space the expect. (e.g. If YK/Avie/DannyT ran a space, putting Graham/Deni straight after might be a bad idea)
+
 ## Hosting
 The event will be hosted from a central, neutral account so that no one person gets all the "glory".
 
