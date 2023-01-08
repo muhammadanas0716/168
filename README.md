@@ -31,6 +31,7 @@ We also need topic suggestions etc. But one thing at a time!
 - Trecia [https://twitter.com/TreciaKS](https://twitter.com/TreciaKS) (status: yes)
 - Emy [https://twitter.com/njong_emy](https://twitter.com/njong_emy) (status: yes)
 - Arya [https://twitter.com/arya_akhare](https://twitter.com/arya_akhare) (status: yes)
+- dENI [https://twitter.com/DeniTechh](https://twitter.com/DeniTechh) (status: yes)
 
 ## People to approach, speakers and hosts
 - Francesco
@@ -38,7 +39,6 @@ We also need topic suggestions etc. But one thing at a time!
 - Lawrence
 - Eddie
 - Marino
-- Deni
 - Arit
 - Marc Backes
 - Ravin
