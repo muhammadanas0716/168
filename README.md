@@ -22,10 +22,15 @@ We also need topic suggestions etc. But one thing at a time!
 - Jax [https://twitter.com/44JAX44](https://twitter.com/44JAX44) (status: awaiting response)
 - CodeWalker [https://twitter.com/whereisCODE](https://twitter.com/whereisCODE) (status: yes)
 - Shawn [https://twitter.com/ShawnBasquiat](https://twitter.com/ShawnBasquiat) (status: yes)
-- Tobiloba [https://twitter.com/toby_solutions](https://twitter.com/toby_solutions) (status: yes (I think))
+- Tobiloba [https://twitter.com/toby_solutions](https://twitter.com/toby_solutions) (status: yes)
 - YK [https://twitter.com/ykdojo](https://twitter.com/ykdojo) (status: yes)
 - Jenn Junod [https://twitter.com/JennJunod](https://twitter.com/JennJunod) (status: yes)
 - AJ [https://twitter.com/aj__chan](https://twitter.com/aj__chan) (status: yes)
+- Jenn Strout [https://twitter.com/StroutMotivateU](https://twitter.com/StroutMotivateU) (status: yes)
+- Krupali [https://twitter.com/chai_really](https://twitter.com/chai_really) (status: yes)
+- Trecia [https://twitter.com/TreciaKS](https://twitter.com/TreciaKS) (status: yes)
+- Emy [https://twitter.com/njong_emy](https://twitter.com/njong_emy) (status: yes)
+- Arya [https://twitter.com/arya_akhare](https://twitter.com/arya_akhare) (status: yes)
 
 ## People to approach
 - Francesco
@@ -43,6 +48,22 @@ We also need topic suggestions etc. But one thing at a time!
 - Nathan James
 - Favor
 - Mike (HTML All the things)
+- Kyle
+- Zona
+- Jeremy
+- Izzy (@izaye_visuals)
+- Drew (coding with)
+
+## People who want to be speakers / cohost
+- Mayank
+- Muhammad (MuhammadAnas707)
+- Vincent (Vincent_coder)
+
+## Potential event name suggestions:
+- Tech Twitter Space Train - YK
+- Spaceagedon? Space off? Maraspacethon? Mega space? Jenn Junod
+- Spacinity - Space + infinity - Krupali
+
 
 
 
