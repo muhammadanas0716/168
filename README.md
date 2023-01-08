@@ -39,7 +39,9 @@ We also need topic suggestions etc. But one thing at a time!
 - Pratim
 - Kunal
 - Albiona
-
+- Nathan James
+- Favor
+- Mike (HTML All the things)
 
 
 
