@@ -23,9 +23,9 @@ We also need topic suggestions etc. But one thing at a time!
 - CodeWalker [https://twitter.com/whereisCODE](https://twitter.com/whereisCODE) (status: yes)
 - Shawn [https://twitter.com/ShawnBasquiat](https://twitter.com/ShawnBasquiat) (status: yes)
 - Tobiloba [https://twitter.com/toby_solutions](https://twitter.com/toby_solutions) (status: yes (I think))
-- YK [https://twitter.com/ykdojo](https://twitter.com/ykdojo) (status: awaiting response)
+- YK [https://twitter.com/ykdojo](https://twitter.com/ykdojo) (status: yes)
 - Jenn Junod [https://twitter.com/JennJunod](https://twitter.com/JennJunod) (status: yes)
-- AJ [https://twitter.com/aj__chan](https://twitter.com/aj__chan)
+- AJ [https://twitter.com/aj__chan](https://twitter.com/aj__chan) (status: yes)
 
 ## People to approach
 - Francesco
