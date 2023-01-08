@@ -32,7 +32,7 @@ We also need topic suggestions etc. But one thing at a time!
 - Emy [https://twitter.com/njong_emy](https://twitter.com/njong_emy) (status: yes)
 - Arya [https://twitter.com/arya_akhare](https://twitter.com/arya_akhare) (status: yes)
 
-## People to approach
+## People to approach, speakers and hosts
 - Francesco
 - Danny T
 - Lawrence
@@ -55,6 +55,11 @@ We also need topic suggestions etc. But one thing at a time!
 - Drew (coding with)
 - Chris Bongers
 - Nimrod
+- Ben Halpern
+- Nick White
+- Ben Myers
+- Emma Dawson
+- Pradumna
 
 ## People who want to be speakers / cohost
 - Mayank
