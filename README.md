@@ -19,7 +19,7 @@ We also need topic suggestions etc. But one thing at a time!
 - Avie [https://twitter.com/AvieDev](https://twitter.com/AvieDev) (status: yes)
 - Jonaed [https://twitter.com/NoDegreeDotCom](https://twitter.com/NoDegreeDotCom) (status: yes)
 - Rob [https://twitter.com/Axolodev](https://twitter.com/Axolodev) (status: yes)
-- Jax [https://twitter.com/44JAX44](https://twitter.com/44JAX44) (status: awaiting response)
+- Jax [https://twitter.com/44JAX44](https://twitter.com/44JAX44) (status: yes)
 - CodeWalker [https://twitter.com/whereisCODE](https://twitter.com/whereisCODE) (status: yes)
 - Shawn [https://twitter.com/ShawnBasquiat](https://twitter.com/ShawnBasquiat) (status: yes)
 - Tobiloba [https://twitter.com/toby_solutions](https://twitter.com/toby_solutions) (status: yes)
@@ -53,6 +53,8 @@ We also need topic suggestions etc. But one thing at a time!
 - Jeremy
 - Izzy (@izaye_visuals)
 - Drew (coding with)
+- Chris Bongers
+- Nimrod
 
 ## People who want to be speakers / cohost
 - Mayank
